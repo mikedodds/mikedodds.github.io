@@ -1,6 +1,7 @@
 ---
 title: "Verified Cryptographic Code for Everybody"
 collection: publications
+category: conferences
 permalink: /publication/2021-7-15-verified-cryptographic-code-for-everybody
 # excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
 date: 2021-7-15
