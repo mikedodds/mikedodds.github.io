@@ -1,5 +1,5 @@
 ---
-title: "Verified Cryptographic Code for Everybody"
+title: "Macaw: A Machine Code Toolbox for the Busy Binary Analyst"
 collection: publications
 category: preprints
 permalink: /publication/2024-7-8-macaw-a-machine-code-toolbox
