@@ -21,7 +21,7 @@ repository               : "mikedodds/mikedodds.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "miked_headshot_2024-10-18.jpg"
+  avatar           : "miked_headshot_2024-10-18.jpeg"
   name             : "Mike Dodds"
   pronouns         : # example: "she/her"  
   bio              : #"Principal Scientist, Galois Inc"
