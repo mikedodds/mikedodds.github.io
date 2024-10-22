@@ -14,4 +14,4 @@ paperurl: "http://mikedodds.github.io/files/publications/2013-01-23-library-abst
 
 In this paper, we propose a criterion for sound library abstraction in the new C11 and C++11 memory model, generalising the standard sequentially consistent notion of linearizability. We prove that our criterion soundly captures all client-library interactions, both through call and return values, and through the subtle synchronisation effects arising from the memory model. To illustrate our approach, we verify implementations against specifications for the lock-free Treiber stack and a producer-consumer queue. Ours is the first approach to compositional reasoning for concurrent C11/C++11 programs.
 
-\[DOI: <https://doi.org/10.1145/2429069.2429099>\] \[[PDF](http://mikedodds.github.io/files/publications/2013-01-23-library-abstraction-for-c-cpp-concurrency.pdf)\]
+DOI: <https://doi.org/10.1145/2429069.2429099>, [PDF](http://mikedodds.github.io/files/publications/2013-01-23-library-abstraction-for-c-cpp-concurrency.pdf)
