@@ -8,6 +8,5 @@ venue: "Future of Weak Memory Workshop"
 location: "Principles of Programming Languages (POPL) 2024" 
 ---
 
-[Talk video](https://youtu.be/QmjPN-JAiSI?feature=shared)
+[Slides](http://mikedodds.github.io/files/talks/2024-01-15-weak-memory-matters.pdf), [Talk video](https://youtu.be/QmjPN-JAiSI?feature=shared)
 
-[Slides](http://mikedodds.github.io/files/talks/2024-01-15-weak-memory-matters.pdf)
