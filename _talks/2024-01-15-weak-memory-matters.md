@@ -3,7 +3,7 @@ title: "How Do We Know Weak Memory Matters?"
 collection: talks
 type: "Workshop talk"
 permalink: talks/2024-01-15-weak-memory-matters
-date: 2024-10-9
+date: 2024-01-15
 venue: "Future of Weak Memory Workshop 2024"
 location: "London, England" 
 ---
