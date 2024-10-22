@@ -2,7 +2,7 @@
 title: "Parsing and Understanding in a Messy World"
 collection: talks
 type: "Research seminar"
-permalink: /talks/2024-1-31-parsing-and-understanding-in-a-messy-world
+permalink: /talks/2024-01-31-parsing-and-understanding-in-a-messy-world
 date: 2024-1-31
 venue: "CSE Colloquium"
 location: "UC Santa Cruz" 
