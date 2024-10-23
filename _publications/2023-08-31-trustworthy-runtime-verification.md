@@ -14,4 +14,4 @@ paperurl: "https://doi.org/10.1145/3607841"
 
 In this paper we describe CopilotVerifier, which runs alongside the Copilot compiler, generating a proof of correctness for the compiled output. The proof establishes that a given Copilot monitor and its compiled form produce equivalent outputs on equivalent inputs, and that they either crash in identical circumstances or cannot crash. The proof takes the form of a bisimulation broken down into a set of verification conditions. We leverage two pieces of SMT-backed technology: the Crucible symbolic execution library for LLVM and the What4 solver interface library. Our results demonstrate that dramatically increased compiler assurance can be achieved at moderate cost by building on existing tools. This paves the way to our ultimate goal of generating formal assurance arguments that are convincing to human auditors.
 
-[PDF](http://mikedodds.github.io/files/publication/2023-08-31-trustworthy-runtime-verification.pdf)
+DOI: <https://doi.org/10.1145/3607841>, Paper: [PDF](http://mikedodds.github.io/files/publication/2023-08-31-trustworthy-runtime-verification.pdf)

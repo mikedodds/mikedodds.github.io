@@ -11,3 +11,5 @@ paperurl: "http://mikedodds.github.io/files/publications/2021-07-15-verified-cry
 ---
 
 **Abstract:** We have completed machine-assisted proofs of two highly- optimized cryptographic primitives, AES-256-GCM and SHA-384. We have verified that the implementations of these primitives, written in a mix of C and x86 assembly, are memory safe and functionally correct, by which we mean input-output equivalent to their algorithmic specifications. Our proofs were completed using SAW, a bounded cryptographic verification tool which we have extended to handle embedded x86. The code we have verified comes from AWS LibCrypto. This code is identical to BoringSSL and very similar to OpenSSL, from which it ultimately derives. We believe we are the first to formally verify these implementations, which protect the security of nearly everybody on the internet.
+
+DOI: <https://doi.org/10.1007/978-3-030-81685-8_31>, Paper: [PDF](http://mikedodds.github.io/files/publications/2021-07-15-verified-cryptographic-code-for-everybody.pdf)
