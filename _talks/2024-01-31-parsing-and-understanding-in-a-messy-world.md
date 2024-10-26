@@ -8,7 +8,7 @@ venue: "CSE Colloquium"
 location: "UC Santa Cruz" 
 ---
 
-[Slides](http://mikedodds.github.io/files/talks/2024-1-31-parsing-and-understanding-in-a-messy-world.pdf)
+[Slides](http://mikedodds.github.io/files/talks/2024-01-31-parsing-and-understanding-in-a-messy-world.pdf)
 
 Every system interacts with the world, which means that nearly every system includes a parser. Parsers are the system’s immune system: they divide the (untrusted) environment from the (safe) interior. In fact, a typical system may include thousands of parsers for different types of data exchange. It’s unfortunate, therefore, that parsers are often terrible: unsafe, insecure, and ambiguous. Parser flaws are the root cause of many of the security vulnerabilities that plague modern software.
  
