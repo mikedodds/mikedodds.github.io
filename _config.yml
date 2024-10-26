@@ -27,12 +27,12 @@ author:
   bio              : #"Principal Scientist, Galois Inc"
   location         : "Portland OR, USA"
   employer         : "Galois, Inc."
-  uri              : # URL
+  uri              : "https://galois.com/team/mike-dodds/" # URL
   email            : "miked@galois.com" 
 
   # Academic websites
-  arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : # "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  arxiv            : "https://arxiv.org/a/dodds_m_1.html"
+  googlescholar    : "https://scholar.google.com/citations?user=C28jHgEAAAAJ"
   impactstory      : # URL
   orcid            : "https://orcid.org/0000-0002-4439-0130"
   semantic         : # URL
@@ -75,8 +75,8 @@ author:
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
-  books:
-    title: 'Books'
+  # books:
+  #   title: 'Books'
   preprints:
     title: 'Preprints'
   conferences:
