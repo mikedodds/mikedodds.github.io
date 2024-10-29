@@ -82,7 +82,9 @@ publication_category:
   conferences:
     title: 'Conference Papers'
   manuscripts:
-    title: 'Journal Articles'    
+    title: 'Journal Articles'
+  misc:
+    title: 'Misc'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"

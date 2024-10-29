@@ -14,4 +14,5 @@ paperurl: "http://mikedodds.github.io/files/publications/2018-05-14-compositiona
 
 DOI: <https://doi.org/10.1007/978-3-319-89884-1_36>, Paper: [PDF](http://mikedodds.github.io/files/publications/2018-05-14-compositional-verification-compiler-optimisations.pdf)
 
-[ArXiv version of the paper](https://arxiv.org/abs/1802.05918).
+ArXiv version of the paper: [Link](https://arxiv.org/abs/1802.05918), ArXiv paper DOI: <
+https://doi.org/10.48550/arXiv.1802.05918>
