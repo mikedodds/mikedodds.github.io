@@ -2,11 +2,11 @@
 title: "Verifying Custom Synchronization Constructs Using Higher-Order Separation Logic"
 collection: publications
 category: manuscripts
-permalink: /publication/2016-01-04-verifying-custom-syncrhonization-constructs
+permalink: /publication/2016-01-04-verifying-custom-synchronization-constructs
 # excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
 date: 2016-01-04
 venue: "Transactions on Programming Languages and Systems (TOPLAS), Volume 38, Issue 2"
-paperurl: "http://mikedodds.github.io/files/publications/2016-01-04-verifying-custom-syncrhonization-constructs.pdf"
+paperurl: "http://mikedodds.github.io/files/publications/2016-01-04-verifying-custom-synchronization-constructs.pdf"
 # citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
 ---
 
@@ -16,4 +16,4 @@ This article examines the formal specification and verification of custom synchr
 
 To achieve this, we use a program logic called iCAP (impredicative Concurrent Abstract Predicates) based on separation logic. iCAP supports both high-level abstraction and low-level reasoning about races. We use this to show that our high-level channel specification abstracts three different, increasingly complex low-level implementations of the library. iCAP’s support for higher-order reasoning lets us prove that sequential dependencies are respected, while iCAP’s next-generation semantic model lets us avoid ugly problems with cyclic dependencies.
 
-DOI: <https://doi.org/10.1145/2818638>, Paper: [PDF](http://mikedodds.github.io/files/publications/2016-01-04-verifying-custom-syncrhonization-constructs.pdf)
+DOI: <https://doi.org/10.1145/2818638>, Paper: [PDF](http://mikedodds.github.io/files/publications/2016-01-04-verifying-custom-synchronization-constructs.pdf)

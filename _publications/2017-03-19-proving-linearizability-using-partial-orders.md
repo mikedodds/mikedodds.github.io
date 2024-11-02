@@ -16,5 +16,4 @@ We propose a new proof method that can handle data structures with such future-d
 
 Conference paper DOI: <https://doi.org/10.1007/978-3-662-54434-1_24>
 
-ArXiv version of the paper: [Link](https://arxiv.org/abs/1701.05463), ArXiv paper DOI: <
-https://doi.org/10.48550/arXiv.1701.05463>
+ArXiv version of the paper: [Link](https://arxiv.org/abs/1701.05463), ArXiv paper DOI: <https://doi.org/10.48550/arXiv.1701.05463>
