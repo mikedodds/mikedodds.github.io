@@ -14,4 +14,4 @@ paperurl: "http://mikedodds.github.io/files/publications/2013-07-01-proof-direct
 
 Our analysis works by using the sequential proof to discover dependencies between different parts of the program. It leverages these discovered dependencies to guide the insertion of synchronization primitives into the parallelized program, and to ensure that the resulting parallelized program satisfies the same specification as the original sequential program, and exhibits the same sequential behavior. Our analysis is built using frame inference and abduction, two techniques supported by an increasing number of separation logic tools.
 
-DOI: <https://doi.org/10.1145/2491522.2491525>, Paper: [PDF](http://mikedodds.github.io/files/publications/2016-01-04-proof-directed-parallelization-synthesis.pdf)
+DOI: <https://doi.org/10.1145/2491522.2491525>, Paper: [PDF](http://mikedodds.github.io/files/publications/2013-07-01-proof-directed-parallelization-synthesis.pdf)
