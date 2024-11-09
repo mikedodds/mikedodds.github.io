@@ -12,4 +12,4 @@ paperurl: "http://mikedodds.github.io/files/publications/2014-01-01-c-causal-cyc
 
 **Abstract:** C/C++ permit seemingly-impossible cycles in causality. This breaks compositionality: two apparently safe programs may fault when composed.
 
-Paper: [PDF](http://mikedodds.github.io/files/publications/2014-01-01-c-causal-cycles-confound-compositionality.pdf), White Rose archive: <https://eprints.whiterose.ac.uk/82801/1/TinyToCS.v2.c_cycles.pdf>
+Paper: [PDF](http://mikedodds.github.io/files/publications/2014-01-01-c-causal-cycles-confound-compositionality.pdf), White Rose archive: <https://eprints.whiterose.ac.uk/82801/>
