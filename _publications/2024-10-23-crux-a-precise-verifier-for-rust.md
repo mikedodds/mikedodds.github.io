@@ -14,6 +14,6 @@ paperurl: "https://arxiv.org/abs/2410.18280"
 
 In this paper, we focus on Crux-MIR, our verification tool for Rust. Crux-MIR provides a bit-precise model of safe and unsafe Rust which can be used to check both inline properties about Rust code, and extensional equality to executable specifications written in Cryptol or in the hacspec dialect of Rust. Notably, Crux-MIR supports compositional reasoning, which is necessary to scale to even moderately complex proofs. We demonstrate Crux-MIR by verifying the Ring library implementations of SHA1 and SHA2 against pre-existing functional specifications.
 
-Crux is available at <http://crux.galois.com>.
+Crux is available at <https://crux.galois.com>.
 
 DOI: <https://doi.org/10.48550/arXiv.2410.18280>
