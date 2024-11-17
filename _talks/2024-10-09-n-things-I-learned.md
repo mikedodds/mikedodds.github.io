@@ -8,4 +8,4 @@ venue: "Big Specification Workshop 2024"
 location: "Isaac Newton Institute, Cambridge, UK" 
 ---
 
-[Slides](http://mikedodds.github.io/files/talks/2024-10-09-n-things-I-learned.pdf)
+[Slides](https://mikedodds.github.io/files/talks/2024-10-09-n-things-I-learned.pdf)

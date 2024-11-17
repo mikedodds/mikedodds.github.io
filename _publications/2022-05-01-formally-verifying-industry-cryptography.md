@@ -12,4 +12,4 @@ paperurl: "http://doi.org/10.1109/MSEC.2022.3153035"
 
 **Abstract:** Over the past five years, Galois has formally verified several cryptographic systems that are used in demanding industry environments. This article discusses our approach to these verification projects, focusing on the practical engineering challenges that exist when building and deploying proofs in industry.
 
-DOI: <http://doi.org/10.1109/MSEC.2022.3153035>, Paper: [PDF](http://mikedodds.github.io/files/publication/2022-05-01-formally-verifying-industry-cryptography.pdf)
+DOI: <http://doi.org/10.1109/MSEC.2022.3153035>, Paper: [PDF](https://mikedodds.github.io/files/publication/2022-05-01-formally-verifying-industry-cryptography.pdf)

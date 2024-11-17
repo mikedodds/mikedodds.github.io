@@ -6,7 +6,7 @@ permalink: /publication/2011-01-26-modular-reasoning-for-deterministic-paralleli
 # excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
 date: 2011-01-26
 venue: "Principles of Programming Languages (POPL)"
-paperurl: "http://mikedodds.github.io/files/publications/2011-01-26-modular-reasoning-for-deterministic-parallelism.pdf"
+paperurl: "https://mikedodds.github.io/files/publications/2011-01-26-modular-reasoning-for-deterministic-parallelism.pdf"
 # citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
 ---
 
@@ -16,4 +16,4 @@ This paper examines the formal specification and verification of these construct
 
 To achieve this, we use concurrent abstract predicates, based on separation logic, to encapsulate racy behaviour in the library's implementation. To allow generic specifications of libraries that can be instantiated by client programs, we extend the logic with higher-order parameters and quantification. We show that our high-level specification abstracts the details of deterministic parallelism by verifying two different low-level implementations of the library.
 
-DOI: <https://doi.org/10.1145/1926385.1926416>, Paper: [PDF](http://mikedodds.github.io/files/publications/2011-01-26-modular-reasoning-for-deterministic-parallelism.pdf)
+DOI: <https://doi.org/10.1145/1926385.1926416>, Paper: [PDF](https://mikedodds.github.io/files/publications/2011-01-26-modular-reasoning-for-deterministic-parallelism.pdf)

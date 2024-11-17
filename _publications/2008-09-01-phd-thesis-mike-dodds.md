@@ -6,7 +6,7 @@ permalink: /publication/2008-09-01-phd-thesis-mike-dodds
 # excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
 date: 2008-09-01
 venue: "University of York, Department of Computer Science"
-paperurl: "http://mikedodds.github.io/files/publications/2008-09-01-phd-thesis-mike-dodds.pdf"
+paperurl: "https://mikedodds.github.io/files/publications/2008-09-01-phd-thesis-mike-dodds.pdf"
 # citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
 ---
 
@@ -18,4 +18,4 @@ We examine the relationship between pointer specification using context-free gra
 
 We define a C-like language that uses graph transformation rules to ensure pointer safety. This language includes graph transformation constructs for defining and rewriting pointer structures. These constructs can be statically checked for shape safety by modelling them as graph transformation rules. We give both an abstract graph-transformation semantics and a concrete executable semantics for our new constructs, and prove that the semantics correspond.
 
-Thesis: [PDF](http://mikedodds.github.io/files/publications/2008-09-01-phd-thesis-mike-dodds.pdf)
+Thesis: [PDF](https://mikedodds.github.io/files/publications/2008-09-01-phd-thesis-mike-dodds.pdf)

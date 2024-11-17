@@ -6,7 +6,7 @@ permalink: /publication/2015-01-14-a-scalable-correct-ts-stack
 # excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
 date: 2015-01-14
 venue: "Principles of Programming Languages (POPL)"
-paperurl: "http://mikedodds.github.io/files/publications/2015-01-14-a-scalable-correct-ts-stack.pdf"
+paperurl: "https://mikedodds.github.io/files/publications/2015-01-14-a-scalable-correct-ts-stack.pdf"
 # citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
 ---
 
@@ -16,5 +16,5 @@ We realise our approach in a new non-blocking data-structure, the TS (timestampe
 
 The weak internal ordering in the TS stack presents a challenge when establishing linearizability: standard techniques such as linearization points work well when there exists a total internal order. We present a new stack theorem, mechanised in Isabelle, which characterises the orderings sufficient to establish stack semantics. By applying our stack theorem, we show that the TS stack is indeed linearizable. Our theorem constitutes a new, generic proof technique for concurrent stacks, and it paves the way for future weakly ordered data-structure designs.
 
-DOI: <https://doi.org/10.1145/2676726.2676963>, Paper: [PDF](http://mikedodds.github.io/files/publications/2015-01-14-a-scalable-correct-ts-stack.pdf)
+DOI: <https://doi.org/10.1145/2676726.2676963>, Paper: [PDF](https://mikedodds.github.io/files/publications/2015-01-14-a-scalable-correct-ts-stack.pdf)
 

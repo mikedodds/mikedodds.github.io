@@ -8,4 +8,4 @@ venue: "HCSS 2024"
 location: "Annapolis, MD" 
 ---
 
-[Slides](http://mikedodds.github.io/files/talks/2024-05-06-llms-are-useful-for-small-problems.pdf)
+[Slides](https://mikedodds.github.io/files/talks/2024-05-06-llms-are-useful-for-small-problems.pdf)

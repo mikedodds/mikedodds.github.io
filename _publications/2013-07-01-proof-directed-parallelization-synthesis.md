@@ -6,7 +6,7 @@ permalink: /publication/2013-07-01-proof-directed-parallelization-synthesis
 # excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
 date: 2013-07-01
 venue: "Transactions on Programming Languages and Systems (TOPLAS), Volume 35, Issue 2"
-paperurl: "http://mikedodds.github.io/files/publications/2013-07-01-proof-directed-parallelization-synthesis.pdf"
+paperurl: "https://mikedodds.github.io/files/publications/2013-07-01-proof-directed-parallelization-synthesis.pdf"
 # citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
 ---
 
@@ -14,4 +14,4 @@ paperurl: "http://mikedodds.github.io/files/publications/2013-07-01-proof-direct
 
 Our analysis works by using the sequential proof to discover dependencies between different parts of the program. It leverages these discovered dependencies to guide the insertion of synchronization primitives into the parallelized program, and to ensure that the resulting parallelized program satisfies the same specification as the original sequential program, and exhibits the same sequential behavior. Our analysis is built using frame inference and abduction, two techniques supported by an increasing number of separation logic tools.
 
-DOI: <https://doi.org/10.1145/2491522.2491525>, Paper: [PDF](http://mikedodds.github.io/files/publications/2013-07-01-proof-directed-parallelization-synthesis.pdf)
+DOI: <https://doi.org/10.1145/2491522.2491525>, Paper: [PDF](https://mikedodds.github.io/files/publications/2013-07-01-proof-directed-parallelization-synthesis.pdf)
