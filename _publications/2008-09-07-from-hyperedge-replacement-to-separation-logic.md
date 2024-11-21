@@ -5,7 +5,7 @@ category: conferences
 permalink: /publication/2008-09-07-from-hyperedge-replacement-to-separation-logic
 # excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
 date: 2008-09-07
-venue: "International Conference on Graph Transformation (ICGT)"
+venue: "International Conference on Graph Transformation (ICGT) - Doctoral Symposium"
 paperurl: "https://mikedodds.github.io/files/publications/2008-09-07-from-hyperedge-replacement-to-separation-logic.pdf"
 # citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
 ---
@@ -14,4 +14,4 @@ paperurl: "https://mikedodds.github.io/files/publications/2008-09-07-from-hypere
 
 _Full Paper_: [PDF](https://mikedodds.github.io/files/publications/2008-09-07-from-hyperedge-replacement-to-separation-logic.pdf)
 
-_Extended Abstract_ DOI: <https://doi.org/10.14279/tuj.eceasst.16.237>, Paper: [PDF](https://mikedodds.github.io/files/publications/2008-09-07-abstract-from-hyperedge-replacement-to-separation-logic.pdf)
+_Extended Abstract_ - DOI: <https://doi.org/10.14279/tuj.eceasst.16.237>, Paper: [PDF](https://mikedodds.github.io/files/publications/2008-09-07-abstract-from-hyperedge-replacement-to-separation-logic.pdf)
