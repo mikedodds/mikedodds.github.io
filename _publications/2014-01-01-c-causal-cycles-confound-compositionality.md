@@ -2,7 +2,7 @@
 title: "C/C++ Causal Cycles Confound Compositionality"
 collection: publications
 category: manuscripts
-permalink: /publication/2014-01-01-c-causal-cycles-confound-compositionality
+permalink: /publications/2014-01-01-c-causal-cycles-confound-compositionality
 # excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
 date: 2014-01-01
 venue: "Tiny Transactions on Computer Science (TinyToCS) Volume 2"

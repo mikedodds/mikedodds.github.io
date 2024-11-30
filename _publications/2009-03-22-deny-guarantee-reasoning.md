@@ -2,7 +2,7 @@
 title: "Deny-Guarantee Reasoning"
 collection: publications
 category: conferences
-permalink: /publication/2009-03-22-deny-guarantee-reasoning
+permalink: /publications/2009-03-22-deny-guarantee-reasoning
 # excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
 date: 2009-03-22
 venue: "European Symposium on Programming (ESOP)"

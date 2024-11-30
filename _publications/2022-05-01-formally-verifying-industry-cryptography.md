@@ -2,7 +2,7 @@
 title: "Formally Verifying Industry Cryptography"
 collection: publications
 category: conferences
-permalink: /publication/2022-05-01-formally-verifying-industry-cryptography
+permalink: /publications/2022-05-01-formally-verifying-industry-cryptography
 # excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
 date: 2022-05-01
 venue: "IEEE Security & Privacy (Volume: 20, Issue: 3, May-June 2022)"

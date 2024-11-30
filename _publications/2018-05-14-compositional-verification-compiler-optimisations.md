@@ -2,7 +2,7 @@
 title: "Compositional Verification of Compiler Optimisations on Relaxed Memory"
 collection: publications
 category: conferences
-permalink: /publication/2018-05-14-compositional-verification-compiler-optimisations
+permalink: /publications/2018-05-14-compositional-verification-compiler-optimisations
 # excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
 date: 2018-05-14
 venue: "European Symposium on Programming (ESOP)"

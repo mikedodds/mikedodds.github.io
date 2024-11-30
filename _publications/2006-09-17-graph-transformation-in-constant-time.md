@@ -2,7 +2,7 @@
 title: "Graph Transformation in Constant Time"
 collection: publications
 category: conferences
-permalink: /publication/2006-09-17-graph-transformation-in-constant-time
+permalink: /publications/2006-09-17-graph-transformation-in-constant-time
 # excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
 date: 2006-09-17
 venue: "International Conference on Graph Transformation (ICGT)"

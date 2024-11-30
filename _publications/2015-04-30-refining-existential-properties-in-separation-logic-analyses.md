@@ -2,7 +2,7 @@
 title: "Refining Existential Properties in Separation Logic Analyses"
 collection: publications
 category: preprints
-permalink: /publication/2015-04-30-refining-existential-properties-in-separation-logic-analyses
+permalink: /publications/2015-04-30-refining-existential-properties-in-separation-logic-analyses
 # excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
 date: 2015-04-30
 venue: "ArXiv [cs.LO]"

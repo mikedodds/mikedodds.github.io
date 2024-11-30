@@ -2,7 +2,7 @@
 title: "PhD Thesis: Graph Transformation and Pointer Structures"
 collection: publications
 category: misc
-permalink: /publication/2008-09-01-phd-thesis-mike-dodds
+permalink: /publications/2008-09-01-phd-thesis-mike-dodds
 # excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
 date: 2008-09-01
 venue: "University of York, Department of Computer Science"

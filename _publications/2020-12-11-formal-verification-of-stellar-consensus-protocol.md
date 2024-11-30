@@ -2,7 +2,7 @@
 title: "On the Formal Verification of the Stellar Consensus Protocol"
 collection: publications
 category: conferences
-permalink: /publication/2020-12-11-formal-verification-of-stellar-consensus-protocol
+permalink: /publications/2020-12-11-formal-verification-of-stellar-consensus-protocol
 # excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
 date: 2020-12-11
 venue: "Workshop on Formal Methods for Blockchains (FMBC)"

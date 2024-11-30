@@ -2,7 +2,7 @@
 title: "From Hyperedge Replacement to Separation Logic and Back"
 collection: publications
 category: conferences
-permalink: /publication/2008-09-07-from-hyperedge-replacement-to-separation-logic
+permalink: /publications/2008-09-07-from-hyperedge-replacement-to-separation-logic
 # excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
 date: 2008-09-07
 venue: "International Conference on Graph Transformation (ICGT) - Doctoral Symposium"

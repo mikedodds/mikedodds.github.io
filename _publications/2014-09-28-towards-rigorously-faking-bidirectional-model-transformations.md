@@ -2,7 +2,7 @@
 title: "Towards Rigorously Faking Bidirectional Model Transformations"
 collection: publications
 category: conferences
-permalink: /publication/2014-09-28-towards-rigorously-faking
+permalink: /publications/2014-09-28-towards-rigorously-faking
 # excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
 date: 2014-09-28
 venue: "Analysis of Model Transformations Workshop"

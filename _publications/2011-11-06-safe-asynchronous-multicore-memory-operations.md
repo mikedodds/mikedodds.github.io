@@ -2,7 +2,7 @@
 title: "Safe asynchronous multicore memory operations"
 collection: publications
 category: conferences
-permalink: /publication/2011-11-06-safe-asynchronous-multicore-memory-operations
+permalink: /publications/2011-11-06-safe-asynchronous-multicore-memory-operations
 # excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
 date: 2011-11-06
 venue: "Automated Software Engineering (ASE)"

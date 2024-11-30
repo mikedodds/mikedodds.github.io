@@ -2,7 +2,7 @@
 title: "Macaw: A Machine Code Toolbox for the Busy Binary Analyst"
 collection: publications
 category: preprints
-permalink: /publication/2024-07-08-macaw-a-machine-code-toolbox
+permalink: /publications/2024-07-08-macaw-a-machine-code-toolbox
 # excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
 date: 2024-7-8
 venue: "ArXiv [cs.PL]"

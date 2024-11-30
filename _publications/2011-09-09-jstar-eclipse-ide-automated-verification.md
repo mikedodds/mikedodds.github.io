@@ -2,7 +2,7 @@
 title: "jStar-eclipse: an IDE for automated verification of Java programs"
 collection: publications
 category: conferences
-permalink: /publication/2011-09-09-jstar-eclipse-ide-automated-verification
+permalink: /publications/2011-09-09-jstar-eclipse-ide-automated-verification
 # excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
 date: 2011-09-09
 venue: "Principles and practice of parallel programming (PPoPP)"

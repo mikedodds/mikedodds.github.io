@@ -2,7 +2,7 @@
 title: "Automatic safety proofs for asynchronous memory operations"
 collection: publications
 category: conferences
-permalink: /publication/2011-01-26-automatic-safety-proofs-for-async-memory-operations
+permalink: /publications/2011-01-26-automatic-safety-proofs-for-async-memory-operations
 # excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
 date: 2011-02-12
 venue: "Principles and practice of parallel programming (PPoPP)"

@@ -2,7 +2,7 @@
 title: "Modular reasoning for deterministic parallelism"
 collection: publications
 category: conferences
-permalink: /publication/2011-01-26-modular-reasoning-for-deterministic-parallelism
+permalink: /publications/2011-01-26-modular-reasoning-for-deterministic-parallelism
 # excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
 date: 2011-01-26
 venue: "Principles of Programming Languages (POPL)"

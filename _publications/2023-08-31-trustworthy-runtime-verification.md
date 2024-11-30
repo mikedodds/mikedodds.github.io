@@ -2,7 +2,7 @@
 title: "Trustworthy Runtime Verification via Bisimulation (Experience Report)"
 collection: publications
 category: conferences
-permalink: /publication/2023-08-31-trustworthy-runtime-verification
+permalink: /publications/2023-08-31-trustworthy-runtime-verification
 # excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
 date: 2023-08-31
 venue: "International Conference on Functional Programming (ICFP)"

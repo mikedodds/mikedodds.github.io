@@ -2,7 +2,7 @@
 title: "Research Report: An Optim (l) Approach to Parsing Random-Access Formats"
 collection: publications
 category: conferences
-permalink: /publication/2024-05-23-optim-l-approach-to-parsing-random-access-formats
+permalink: /publications/2024-05-23-optim-l-approach-to-parsing-random-access-formats
 # excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
 date: 2024-05-23
 venue: "Tenth LangSec Workshop at IEEE Security & Privacy"

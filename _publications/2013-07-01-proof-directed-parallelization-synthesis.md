@@ -2,7 +2,7 @@
 title: "Proof-Directed Parallelization Synthesis by Separation Logic"
 collection: publications
 category: manuscripts
-permalink: /publication/2013-07-01-proof-directed-parallelization-synthesis
+permalink: /publications/2013-07-01-proof-directed-parallelization-synthesis
 # excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
 date: 2013-07-01
 venue: "Transactions on Programming Languages and Systems (TOPLAS), Volume 35, Issue 2"

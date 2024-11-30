@@ -2,7 +2,7 @@
 title: "A simple abstraction for complex concurrent indexes"
 collection: publications
 category: conferences
-permalink: /publication/2011-10-22-simple-abstraction-complex-concurrent-datastructures
+permalink: /publications/2011-10-22-simple-abstraction-complex-concurrent-datastructures
 # excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
 date: 2011-10-22
 venue: "Object oriented Programming Systems Languages and Applications (OOPSLA)"

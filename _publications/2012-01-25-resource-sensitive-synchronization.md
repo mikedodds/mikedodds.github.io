@@ -2,7 +2,7 @@
 title: "Resource-sensitive synchronization inference by abduction"
 collection: publications
 category: conferences
-permalink: /publication/2012-01-25-resource-sensitive-synchronization
+permalink: /publications/2012-01-25-resource-sensitive-synchronization
 # excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
 date: 2012-01-25
 venue: "Principals of Programming Languages (POPL)"

@@ -2,7 +2,7 @@
 title: "Verifying Custom Synchronization Constructs Using Higher-Order Separation Logic"
 collection: publications
 category: manuscripts
-permalink: /publication/2016-01-04-verifying-custom-synchronization-constructs
+permalink: /publications/2016-01-04-verifying-custom-synchronization-constructs
 # excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
 date: 2016-01-04
 venue: "Transactions on Programming Languages and Systems (TOPLAS), Volume 38, Issue 2"

@@ -2,7 +2,7 @@
 title: "coreStar: the core of jStar"
 collection: publications
 category: conferences
-permalink: /publication/2011-07-20-corestar-the-core-of-jstar
+permalink: /publications/2011-07-20-corestar-the-core-of-jstar
 # excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
 date: 2011-07-20
 venue: "1st International Workshop on Intermediate Verification Languages (Boogie 2011)"

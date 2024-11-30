@@ -2,7 +2,7 @@
 title: "Starling: Lightweight Concurrency Verification with Views"
 collection: publications
 category: conferences
-permalink: /publication/2017-07-13-starling-lightweight-concurrency-verification-w-views
+permalink: /publications/2017-07-13-starling-lightweight-concurrency-verification-w-views
 # excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
 date: 2017-7-13
 venue: "Computer Aided Verification (CAV)"

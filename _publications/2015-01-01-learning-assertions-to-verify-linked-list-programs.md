@@ -2,7 +2,7 @@
 title: "Learning Assertions to Verify Linked-List Programs"
 collection: publications
 category: conferences
-permalink: /publication/2015-01-01-learning-assertions-to-verify-linked-list-programs
+permalink: /publications/2015-01-01-learning-assertions-to-verify-linked-list-programs
 # excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
 date: 2015-01-01
 venue: "Software Engineering and Formal Methods (SEFM)"

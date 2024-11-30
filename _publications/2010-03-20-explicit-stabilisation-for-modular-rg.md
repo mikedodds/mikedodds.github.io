@@ -2,7 +2,7 @@
 title: "Explicit Stabilisation for Modular Rely-Guarantee Reasoning"
 collection: publications
 category: conferences
-permalink: /publication/2010-03-20-explicit-stabilisation-for-modular-rg
+permalink: /publications/2010-03-20-explicit-stabilisation-for-modular-rg
 # excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
 date: 2010-03-20
 venue: "European Symposium on Programming (ESOP)"

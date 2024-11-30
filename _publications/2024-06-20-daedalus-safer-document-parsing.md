@@ -2,7 +2,7 @@
 title: "Daedalus: Safer Document Parsing"
 collection: publications
 category: conferences
-permalink: /publication/2024-06-20-daedalus-safer-document-parsing
+permalink: /publications/2024-06-20-daedalus-safer-document-parsing
 # excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
 date: 2024-6-20
 venue: "Programming Language Design and Implementation (PLDI)"

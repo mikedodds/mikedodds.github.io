@@ -2,7 +2,7 @@
 title: "A Scalable, Correct Time-Stamped Stack"
 collection: publications
 category: conferences
-permalink: /publication/2015-01-14-a-scalable-correct-ts-stack
+permalink: /publications/2015-01-14-a-scalable-correct-ts-stack
 # excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
 date: 2015-01-14
 venue: "Principles of Programming Languages (POPL)"

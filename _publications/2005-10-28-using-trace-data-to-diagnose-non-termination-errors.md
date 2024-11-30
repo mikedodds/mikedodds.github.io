@@ -2,7 +2,7 @@
 title: "Using Trace Data to Diagnose Non-Termination Errors "
 collection: publications
 category: misc
-permalink: /publication/2005-10-28-using-trace-data-to-diagnose-non-termination-errors
+permalink: /publications/2005-10-28-using-trace-data-to-diagnose-non-termination-errors
 # excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
 date: 2005-10-28
 venue: "Hat Day 2005: work in progress on the Hat tracing system for Haskell (Technical Report YCS-2005-395)"

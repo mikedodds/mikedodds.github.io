@@ -2,7 +2,7 @@
 title: "Library Abstraction for C/C++ Concurrency"
 collection: publications
 category: conferences
-permalink: /publication/2013-01-23-library-abstraction-for-c-cpp-concurrency
+permalink: /publications/2013-01-23-library-abstraction-for-c-cpp-concurrency
 # excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
 date: 2013-1-23
 venue: "Principals of Programming Languages (POPL)"

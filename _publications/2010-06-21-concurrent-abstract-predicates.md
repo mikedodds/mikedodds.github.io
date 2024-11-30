@@ -2,7 +2,7 @@
 title: "Concurrent Abstract Predicates"
 collection: publications
 category: conferences
-permalink: /publication/2010-06-21-concurrent-abstract-predicates
+permalink: /publications/2010-06-21-concurrent-abstract-predicates
 # excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
 date: 2010-06-21
 venue: "European Conference on Object-Oriented Programming (ECOOP)"

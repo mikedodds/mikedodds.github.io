@@ -2,7 +2,7 @@
 title: "Proving Linearizability Using Partial Orders"
 collection: publications
 category: conferences
-permalink: /publication/2017-03-19-proving-linearizability-using-partial-orders
+permalink: /publications/2017-03-19-proving-linearizability-using-partial-orders
 # excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
 date: 2017-03-19
 venue: "European Symposium on Programming (ESOP)"

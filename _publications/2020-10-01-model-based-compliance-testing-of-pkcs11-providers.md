@@ -2,7 +2,7 @@
 title: "Model-Based Compliance Testing of PKCS#11 Providers"
 collection: publications
 category: misc
-permalink: /publication/2020-10-01-model-based-compliance-testing-of-pkcs11-providers
+permalink: /publications/2020-10-01-model-based-compliance-testing-of-pkcs11-providers
 # excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
 date: 2020-10-01
 venue: "Galois, Inc. - Technical Report GALOIS-20-01"

@@ -2,7 +2,7 @@
 title: "Extending C for Checking Shape Safety"
 collection: publications
 category: conferences
-permalink: /publication/2005-08-22-extending-c-for-checking-shape-safety
+permalink: /publications/2005-08-22-extending-c-for-checking-shape-safety
 # excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
 date: 2005-08-22
 venue: "Workshop on Graph Transformation for Verification and Concurrency (GT-VC)"

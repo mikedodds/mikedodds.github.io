@@ -2,7 +2,7 @@
 title: "Ribbon Proofs for Separation Logic"
 collection: publications
 category: conferences
-permalink: /publication/2013-03-16-ribbon-proofs-for-separation-logic
+permalink: /publications/2013-03-16-ribbon-proofs-for-separation-logic
 # excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
 date: 2013-03-16
 venue: "European Symposium on Programming (ESOP)"
