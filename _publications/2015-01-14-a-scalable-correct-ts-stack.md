@@ -18,3 +18,4 @@ The weak internal ordering in the TS stack presents a challenge when establishin
 
 DOI: <https://doi.org/10.1145/2676726.2676963>, Paper: [PDF](https://mikedodds.github.io/files/publications/2015-01-14-a-scalable-correct-ts-stack.pdf)
 
+Short paper presented at [FRIDA'14](https://easychair.org/smart-program/VSL2014/FRIDA-index.html): [PDF](https://mikedodds.github.io/files/publications/2014-07-23-a-fast-correct-ts-stack.pdf)
