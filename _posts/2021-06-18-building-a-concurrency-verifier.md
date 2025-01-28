@@ -7,4 +7,4 @@ tags:
   - galois
 ---
 
-Galois blog post: [Link](https://galois.com/blog/2021/06/building-a-concurrency-verifier-using-crucible/)
+Galois blog post: [Link](https://www.galois.com/articles/building-a-concurrency-verifier-using-crucible)

@@ -6,4 +6,4 @@ tags:
   - galois
 ---
 
-Galois blog post: [Link](https://galois.com/blog/2021/03/quic-testing-a-quick-replication/)
+Galois blog post: [Link](https://galois.com/articles/quic-testing-a-quick-replication/)

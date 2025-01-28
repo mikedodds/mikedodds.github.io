@@ -6,4 +6,4 @@ tags:
   - galois
 ---
 
-Galois blog post: [Link](https://galois.com/blog/2024/02/galois-twisp-avoiding-foolishness-in-distributed-systems/)
+Galois blog post: [Link](https://galois.com/articles/galois-twisp-avoiding-foolishness-in-distributed-systems/)

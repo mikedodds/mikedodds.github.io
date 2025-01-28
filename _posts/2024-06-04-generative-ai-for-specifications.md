@@ -6,4 +6,4 @@ tags:
   - galois
 ---
 
-Galois blog post: [Link](https://galois.com/blog/2024/06/generative-ai-for-specifications/)
+Galois blog post: [Link](https://galois.com/articles/generative-ai-for-specifications/)

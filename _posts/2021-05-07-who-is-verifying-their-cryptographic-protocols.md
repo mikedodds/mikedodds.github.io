@@ -7,4 +7,4 @@ tags:
   - galois
 ---
 
-Galois blog post: [Link](https://galois.com/blog/2021/05/who-is-verifying-their-cryptographic-protocols/)
+Galois blog post: [Link](https://galois.com/articles/who-is-verifying-their-cryptographic-protocols/)

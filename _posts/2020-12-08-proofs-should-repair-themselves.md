@@ -6,4 +6,4 @@ tags:
   - galois
 ---
 
-Galois blog post: [Link](https://galois.com/blog/2020/12/proofs-should-repair-themselves/)
+Galois blog post: [Link](https://galois.com/articles/proofs-should-repair-themselves/)

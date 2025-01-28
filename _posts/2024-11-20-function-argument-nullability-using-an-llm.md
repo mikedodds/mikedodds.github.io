@@ -6,4 +6,4 @@ tags:
   - galois
 ---
 
-Galois blog post: [Link](https://galois.com/blog/2024/11/function-argument-nullability-using-an-llm/)
+Galois blog post: [Link](https://galois.com/articles/function-argument-nullability-using-an-llm/)

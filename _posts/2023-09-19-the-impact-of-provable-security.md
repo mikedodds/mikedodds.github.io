@@ -6,4 +6,4 @@ tags:
   - galois
 ---
 
-Galois blog post: [Link](https://galois.com/blog/2023/09/the-impact-of-provable-security-aws-and-supranational/)
+Galois blog post: [Link](https://galois.com/articles/the-impact-of-provable-security-aws-and-supranational/)
