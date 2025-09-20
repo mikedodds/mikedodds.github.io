@@ -16,4 +16,4 @@ In this paper, we focus on Crux-MIR, our verification tool for Rust. Crux-MIR pr
 
 Crux is available at <https://crux.galois.com>.
 
-DOI: <https://doi.org/10.48550/arXiv.2410.18280>
+DOI: <https://doi.org/10.48550/arXiv.2410.18280>, ArXiv: [Link](https://arxiv.org/abs/2410.18280)

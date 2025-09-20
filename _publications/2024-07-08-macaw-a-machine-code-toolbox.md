@@ -14,4 +14,4 @@ paperurl: "https://arxiv.org/abs/2407.06375"
 
 We present Macaw, a modular framework that makes it possible to rapidly build reliable binary analysis tools across a range of use cases. Over a decade of development, we have used Macaw to support an industrial research team in building tools for machine code-related tasks. As such, the name "Macaw" refers not just to the framework itself, but also a suite of tools that are built on top of the framework. We describe Macaw in depth and describe the different static and dynamic analyses that it performs, many of which are powered by an SMT-based symbolic execution engine. We put a particular focus on interoperability between machine code and higher-level languages, including binary lifting from x86 to LLVM, as well verifying the correctness of mixed C and assembly code.
 
-DOI: <https://doi.org/10.48550/arXiv.2407.06375>
+DOI: <https://doi.org/10.48550/arXiv.2407.06375>, ArXiv: [Link](https://arxiv.org/abs/2407.06375)

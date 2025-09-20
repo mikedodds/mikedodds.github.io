@@ -14,6 +14,4 @@ paperurl: "https://arxiv.org/abs/1701.05463"
 
 We propose a new proof method that can handle data structures with such future-dependent linearizations. Our key idea is to incrementally construct not a single linear order of operations, but a partial order that describes multiple linearizations satisfying the sequential specification. This allows decisions about the ordering of operations to be delayed, mirroring the behaviour of data structure implementations. We formalise our method as a program logic based on rely-guarantee reasoning, and demonstrate its effectiveness by verifying several challenging data structures: the Herlihy-Wing queue, the TS queue and the Optimistic set.
 
-Conference paper DOI: <https://doi.org/10.1007/978-3-662-54434-1_24>
-
-ArXiv version of the paper: [Link](https://arxiv.org/abs/1701.05463), ArXiv paper DOI: <https://doi.org/10.48550/arXiv.1701.05463>
+DOI: <https://doi.org/10.1007/978-3-662-54434-1_24>, ArXiv version: [Link](https://arxiv.org/abs/1701.05463), ArXiv DOI: <https://doi.org/10.48550/arXiv.1701.05463>
