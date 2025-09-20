@@ -3,7 +3,7 @@ title: "Proofs in the Wild: What’s done today? What’s close? What’s far?"
 collection: talks
 type: "Workshop talk"
 permalink: /talks/2024-12-5-proofs-in-the-wild
-date: 2024-12-5
+date: 2024-12-05
 venue: "Proof Scaling meeting"
 location: "Lighthaven campus, Berkeley CA" 
 ---

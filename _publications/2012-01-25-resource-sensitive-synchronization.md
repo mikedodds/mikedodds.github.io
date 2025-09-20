@@ -5,7 +5,7 @@ category: conferences
 permalink: /publications/2012-01-25-resource-sensitive-synchronization
 # excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
 date: 2012-01-25
-venue: "Principals of Programming Languages (POPL)"
+venue: "Principles of Programming Languages (POPL)"
 paperurl: "https://mikedodds.github.io/files/publications/2012-01-25-resource-sensitive-synchronization.pdf"
 # citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
 ---

@@ -5,7 +5,7 @@ category: conferences
 permalink: /publications/2011-09-09-jstar-eclipse-ide-automated-verification
 # excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
 date: 2011-09-09
-venue: "Principles and practice of parallel programming (PPoPP)"
+venue: "Foundations of Software Engineering (FSE)"
 paperurl: "https://mikedodds.github.io/files/publications/2011-09-09-jstar-eclipse-ide-automated-verification.pdf"
 # citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
 ---

@@ -4,7 +4,7 @@ collection: publications
 category: preprints
 permalink: /publications/2024-07-08-macaw-a-machine-code-toolbox
 # excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2024-7-8
+date: 2024-07-08
 venue: "ArXiv [cs.PL]"
 paperurl: "https://arxiv.org/abs/2407.06375"
 # citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
