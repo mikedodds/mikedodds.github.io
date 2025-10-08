@@ -28,12 +28,12 @@ Work experience
 Grants 
 ======
 
-* DARPA PROVERS / VERSE - usable formal methods for engineers (current)
-* DARPA LiLaC-SL / ALLSTAR - C2Rust extension project (current) 
-* DARPA CAMDEN - incentive design for government procurement processes 
-* DARPA PEARLS / REVERSER - AI-driven formal methods tools 
-* DARPA BARC - automated binary lifting and compartmentalization 
-* DARPA SafeDocs / SPARTA - safe parser technologies 
+* [DARPA TRACTOR](https://www.darpa.mil/program/translating-all-c-to-rust) - translating all C to Rust (current)
+* [DARPA PROVERS](https://www.darpa.mil/research/programs/pipelined-reasoning-of-verifiers-enabling-robust-systems) / VERSE - usable formal methods for engineers
+* [DARPA SafeDocs](https://www.darpa.mil/research/programs/safe-documents) / SPARTA - safe parser technologies 
+* DARPA CATID / CAMDEN - incentive design for government procurement processes
+* [DARPA PEARLS](https://www.darpa.mil/research/programs/proof-engineering-adaptation-repair-and-learning-for-software) / REVERSER - AI-driven formal methods tools
+* DARPA BARC - automated binary lifting and compartmentalization
 
 Awards 
 ======
