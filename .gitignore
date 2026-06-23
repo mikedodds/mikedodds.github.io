@@ -8,6 +8,9 @@ local/
 # Ignore the Gemfile that is generated
 Gemfile.lock
 
+# Ignore local Ruby version pin (local dev only, not committed)
+.ruby-version
+
 # Ingore files created by npm
 node_modules
 package-lock.json

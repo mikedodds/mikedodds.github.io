@@ -1,5 +1,5 @@
 ---
-title: "Using Trace Data to Diagnose Non-Termination Errors "
+title: "Using Trace Data to Diagnose Non-Termination Errors"
 collection: publications
 category: misc
 permalink: /publications/2005-10-28-using-trace-data-to-diagnose-non-termination-errors
