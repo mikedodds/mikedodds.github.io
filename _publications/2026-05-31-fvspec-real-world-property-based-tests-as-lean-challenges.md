@@ -5,7 +5,7 @@ category: preprints
 permalink: /publications/2026-05-31-fvspec-real-world-property-based-tests-as-lean-challenges
 # excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
 date: 2026-05-31
-venue: "ArXiv [cs.LO]"
+venue: "ArXiv [cs.SE]"
 paperurl: "https://arxiv.org/abs/2606.01008"
 # citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
 ---
