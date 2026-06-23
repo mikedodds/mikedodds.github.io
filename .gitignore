@@ -11,6 +11,16 @@ Gemfile.lock
 # Ignore local Ruby version pin (local dev only, not committed)
 .ruby-version
 
-# Ingore files created by npm
+# Ignore files created by npm
 node_modules
 package-lock.json
+
+# Ignore the vendor file at root level and bundle for alternative installation
+/vendor/
+.bundle/
+
+# Ignore folders related to IDEs
+.vscode/
+
+# Ignore files created by MacOS
+.DS_Store
