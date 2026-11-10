@@ -16,8 +16,11 @@ Education
 
 Work experience
 ======
-* [Galois, Inc.](https://galois.com), Principal Scientist, 2017 - Present
-  * Leads research projects in safety- and security-critical domains, with a particular focus on static analysis in industry, logic-based verification, concurrency verification, and software/hardware reasoning. Galois is a research company whose tools are used by NASA, AWS, and the US Department of Defense.
+* [Oath Technologies](https://oath.tech), Founder, 2026 - Present
+  * Founded a nonprofit Focused Research Organization working on AI oversight via formal methods.
+
+* [Galois, Inc.](https://galois.com), Principal Scientist, 2017 - 2026
+  * Led research projects in safety- and security-critical domains, with a particular focus on static analysis in industry, logic-based verification, concurrency verification, and software/hardware reasoning. Galois is a research company whose tools are used by NASA, AWS, and the US Department of Defense.
 
 * [University of York](https://www.cs.york.ac.uk), Anniversary Research Lecturer, 2012 - 2017
   * Conducted a research-focused lectureship—roughly equivalent to an Associate Professor in the United States (see the Awards section below).

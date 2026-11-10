@@ -8,14 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-I'm a Principal Scientist at [Galois, Inc](https://galois.com), a private research consultancy based in Portland OR. Galois specializes in formal methods, programming languages, and systems assurance. 
+I'm the founder of [Oath Technologies](https://oath.tech), a Focused Research Organization working on AI oversight via formal methods. Before Oath, I was a Principal Scientist at [Galois, Inc](https://galois.com), a research consultancy specializing in formal methods, programming languages, and systems assurance. 
 
 I'm interested in the real-world applications of formal methods: 
 
 * 'Formal methods': My work applies mathematical reasoning to ensure software is secure, correct, and bug-free. I'm interested in solving problems in high-impact domains like cryptography, distributed systems, concurrency, and hardware semantics. 
 * 'Real-world': I'm interested in building tools that can be deployed in software engineering environments. This means building powerful, reliable, and understandable tools that complement existing engineering workflows. 
 
-Projects I'm involved with: 
+Projects I've been involved with: 
 
 * [CN](https://rems-project.github.io/cn-tutorial/), a unified testing and verification tool for real C code. 
 * [Daedalus](https://galoisinc.github.io/daedalus/), a safe parsing language we developed on the DARPA SafeDocs project. We used Daedalus to build a reference PDF parser for the PDF association. 
@@ -26,4 +26,5 @@ Career history:
 * 2004-2008: PhD student in [the University of York, UK](https://www.cs.york.ac.uk), working with [Detlef Plump](https://www-users.york.ac.uk/~djp10/). 
 * 2008-2012: Postdoc in the [Computer Laboratory, University of Cambridge](https://www.cst.cam.ac.uk), working with [Matthew Parkinson](https://www.microsoft.com/en-us/research/people/mattpark/) and [Peter Sewell](https://www.cl.cam.ac.uk/~pes20/). 
 * 2012-2017: Lecturer (approximately, [an associate professor](https://en.wikipedia.org/wiki/Academic_ranks_in_the_United_Kingdom)) at [the University of York, UK](https://www.cs.york.ac.uk). 
-* 2017-present: Principal Scientist at [Galois, Inc](https://galois.com). 
+* 2017-2026: Principal Scientist at [Galois, Inc](https://galois.com). 
+* 2026-present: Founder of [Oath Technologies](https://oath.tech). 

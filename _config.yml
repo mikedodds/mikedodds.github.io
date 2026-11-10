@@ -26,10 +26,10 @@ author:
   name             : "Mike Dodds"
   pronouns         : # example: "she/her"  
   bio              : #"Principal Scientist, Galois Inc"
-  location         : "Portland OR, USA"
-  employer         : "Galois, Inc."
-  uri              : # "https://galois.com/team/mike-dodds/" # URL
-  email            : "miked@galois.com" 
+  location         : "Berkeley CA, USA"
+  employer         : "Oath Technologies"
+  uri              : "https://oath.tech"
+  email            : # "miked@galois.com"
 
   # Academic websites
   academia         : # URL
